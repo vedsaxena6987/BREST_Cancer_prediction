@@ -32,7 +32,7 @@ A few key visualizations from the analysis:
 
 ### 🔍 Distribution of Diagnosis
 
-![Diagnosis Distribution](images/diagnosis_distribution.png)
+
 
 **Observation:** The dataset has more benign cases than malignant, which affects model training and performance evaluation.
 
@@ -40,7 +40,7 @@ A few key visualizations from the analysis:
 
 ### 📊 Feature Correlation Heatmap
 
-![Feature Correlation Heatmap](images/correlation_heatmap.png)
+
 
 **Observation:** Certain features like `radius_mean`, `area_mean`, and `concavity_mean` have a high positive correlation with the diagnosis outcome.
 
@@ -48,7 +48,7 @@ A few key visualizations from the analysis:
 
 ### 📊 Important Features (Feature Importance)
 
-![Feature Importance](images/feature_importance.png)
+
 
 **Observation:** Top contributing features to the prediction include `radius_worst`, `perimeter_worst`, and `concave points_worst`.
 
